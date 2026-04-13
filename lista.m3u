@@ -1,36 +1,38 @@
 #EXTM3U
 #EXTINF:-1,ESPN
-https://8c51.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=078e43d64769e8c2ae65bc65bc8f9ac19e802334-ca-1776081431-1776027431
+https://doc1.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=e589bb4b75b7a9b3d22944f26efb59b76a4f1780-c3-1776083218-1776029218
 #EXTINF:-1,ESPN 2
-https://14c51.streameasthd.net/espn2/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=c78c1f1983fa625552433ac19ac2d12383bf80d8-cd-1776081450-1776027450
+https://24a1.streameasthd.net/espn2/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=7e099902fcd93ca33b860ced76cf5033c4fa6c30-56-1776083235-1776029235
 #EXTINF:-1,ESPN 3
-https://8c51.streameasthd.net/espn3/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=a5718e6328d27cd22fec72f5737117420b8f933f-4e-1776081468-1776027468
+https://51a1.streameasthd.net/espn3/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=a575894f65e13e0154210093eee02ff6d040dabf-e2-1776083252-1776029252
 #EXTINF:-1,ESPN 4
-https://98ca2.streameasthd.net/espn4/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=61583b0c7e6271013c04742577a174b21082717e-ca-1776081487-1776027487
+https://doc1.streameasthd.net/espn4/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=781630ad63ae53ef47f718e8df6b7bfdc0378568-bd-1776083269-1776029269
 #EXTINF:-1,ESPN 5
-https://24a1.streameasthd.net/espn5/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=5fb52af42aa4f58143d357e70e66dfbd87efeab8-8f-1776081506-1776027506
+https://14c51.streameasthd.net/espn5/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=92eb574e44002de4db41debdc034387910157fda-f2-1776083286-1776029286
 #EXTINF:-1,ESPN 6
-https://14c51.streameasthd.net/espn6/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=61c2d9212188eaf945c5bb60a961995f2607cc50-66-1776081525-1776027525
+https://24a1.streameasthd.net/espn6/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=a8387b5a5f56e51e82140f9357cf0e9f4cb9f9ad-3a-1776083305-1776029305
 #EXTINF:-1,ESPN 7
-https://24a1.streameasthd.net/espn7/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=9ee4d5c9598903cf40fe7e58de157d5217c3ddea-c7-1776081544-1776027544
+https://98ca2.streameasthd.net/espn7/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=3a1919c13b33767d3a88b497130df4168052c804-e3-1776083323-1776029323
 #EXTINF:-1,Fox Sports 
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91_720.m3u8
 #EXTINF:-1,Fox Sports 2
-https://98ca2.streameasthd.net/fox2ar/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=09a6d2ce85e672340343386659f0cbb9c1251b19-b4-1776081568-1776027568
+https://98ca2.streameasthd.net/fox2ar/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=80215295fc3a890934fe6de48f2b542368e1addc-59-1776083345-1776029345
 #EXTINF:-1,Fox Sports 3
-https://8c51.streameasthd.net/fox3ar/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=53ca454ea0a7571fe466f612fb5cca3c1e80af0c-39-1776081588-1776027588
+https://14c51.streameasthd.net/fox3ar/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=d32a455c53261c5b640e2f33a4bd0d7187543914-45-1776083363-1776029363
 #EXTINF:-1,TNT Sports
-https://14c51.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=e4373e3fc1a75edfbf50ee0020effd9d84d516cf-40-1776081607-1776027607
+https://51a1.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=26fba699b842bc22a7ffce29ab4b895c46dfed2b-f0-1776083381-1776029381
 #EXTINF:-1,ESPN Premium
-https://51a1.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=f3d2f03ee854e7a709c5d07bab2074bf06e59de6-2b-1776081625-1776027625
+https://doc1.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=41f92c5041d59e2ca0c7700a871077f95b605286-99-1776083398-1776029398
 #EXTINF:-1,TyC Sports
-https://98ca2.streameasthd.net/tycsports/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=ebc6e9a652fc50e570d4f882af5f443f5c6ba726-37-1776081649-1776027649
+https://14c51.streameasthd.net/tycsports/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=73ebb0619434132ff38daefdd2ee68923ce15ff9-d9-1776083418-1776029418
+#EXTINF:-1,DeporTV 
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/deportv_720.m3u8
 #EXTINF:-1,America TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:-1,TV Publica
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/tvpublica_720.m3u8
+#EXTINF:-1,Telefe
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe_720.m3u8
 #EXTINF:-1,El Trece
-https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
+https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 #EXTINF:-1,A24
@@ -39,5 +41,5 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8
 #EXTINF:-1,Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
-#EXTINF:-1,La Nacion +
-http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lntv_720.m3u8
+#EXTINF:-1,Cronica TV
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv_480.m3u8
