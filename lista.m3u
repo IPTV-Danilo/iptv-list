@@ -23,32 +23,30 @@ http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv.play
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lntv.playlist.m3u8
 #EXTINF:-1 tvg-id="tn.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Todo_Noticias_logo.png" group-title="Noticias",TN
 https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",Net TV
-https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=244129573
 #EXTINF:-1 tvg-id="espn.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" group-title="Deportes",ESPN
-https://pecdl1.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=70c4ee57196554b59603ce5bae3d2e1e4669ec0f-69-1776176241-1776122241
+https://pecdl1.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=181.94.6.207&token=0eb64a133b927489f5e0025ff50869a9ce5effd6-18-1776334775-1776280775
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",ESPN 2
-https://51a1.streameasthd.net/espn2/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=9d6b9477fcc00181fbeb987330e0f83ba591bcc9-f8-1776176253-1776122253
+https://14c51.streameasthd.net/espn2/tracks-v1a1/mono.m3u8?ip=181.94.6.207&token=1db32061f7db826d6013d9b96eb4d59a51f811c1-25-1776334790-1776280790
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",ESPN 3
-https://24a1.streameasthd.net/espn3/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=867a9d853da315730af2d46d9711e58fab777f2e-32-1776176265-1776122265
+https://pecdl1.streameasthd.net/espn3/tracks-v1a1/mono.m3u8?ip=181.94.6.207&token=d8afa18381062918c3e9181c8535147d6f29296a-e7-1776334810-1776280810
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",ESPN 4
-https://doc1.streameasthd.net/espn4/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=b7ee5d0ecb93d419f3da58011e58496720b44d77-ce-1776176276-1776122276
+https://14c51.streameasthd.net/espn4/tracks-v1a1/mono.m3u8?ip=181.94.6.207&token=9aa3f90895ed5bfe3cbe157eace926e9dadb8951-aa-1776334826-1776280826
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",ESPN 5
-https://8c51.streameasthd.net/espn5/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=7cd35266c3dfa8a7ba24af385cd9f23d803d720b-6c-1776176288-1776122288
+https://pecdl1.streameasthd.net/espn5/tracks-v1a1/mono.m3u8?ip=181.94.6.207&token=4fb337c45dafc33f6aa601d5f01266988cd15894-a3-1776334841-1776280841
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",ESPN 6
-https://14c51.streameasthd.net/espn6/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=4160daccfd461ed92db80ea6ef4964caf7af8d52-48-1776176300-1776122300
+https://24a1.streameasthd.net/espn6/tracks-v1a1/mono.m3u8?ip=181.94.6.207&token=15868e737da11e7a0880680e2819cded57555823-9b-1776334855-1776280855
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",ESPN 7
-https://pecdl1.streameasthd.net/espn7/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=96afb23ffe64f0270be2486adb524a9550b41d72-a4-1776176312-1776122312
+https://8c51.streameasthd.net/espn7/tracks-v1a1/mono.m3u8?ip=181.94.6.207&token=3fb862f39ab9f51499402396f464f8a05befd882-4d-1776334868-1776280868
 #EXTINF:-1 tvg-id="foxsports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Fox_Sports_Logo.png" group-title="Deportes",Fox Sports 
 http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-91.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Fox Sports 2
-https://8c51.streameasthd.net/fox2ar/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=f325f92a9e08570b8c02cd44a875c8f435c0bc24-4b-1776176332-1776122332
+https://pecdl1.streameasthd.net/fox2ar/tracks-v1a1/mono.m3u8?ip=181.94.6.207&token=3bbd7dfbb41f683e31abb6b682412a6f495c71ee-e4-1776334884-1776280884
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",Fox Sports 3
-https://14c51.streameasthd.net/fox3ar/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=1234289512ccac0ba2f1a1b7759ee85ce5ce3f07-90-1776176343-1776122343
+https://pecdl1.streameasthd.net/fox3ar/tracks-v1a1/mono.m3u8?ip=181.94.6.207&token=7df13478da8c8a6a3f784e895fac9350d57dc38c-08-1776334907-1776280907
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",TNT Sports
-https://24a1.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=745edbb5b470d9187e786949a383d22f43ca0b91-fb-1776176355-1776122355
+https://doc1.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=181.94.6.207&token=83171c9e8ed641496294accda31930c0773ad9b9-9e-1776334926-1776280926
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",ESPN Premium
-https://98ca2.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=190.244.63.130&token=0d9bfe7d376c78ae36759f6a4688d5f8592105c8-53-1776176367-1776122367
+https://8c51.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=181.94.6.207&token=04f6ddd63ac26f14d17408cd685100fd9ceb61e6-3f-1776334944-1776280944
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",DirecTV Sports
 https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd
 #EXTINF:-1 tvg-id="tycsports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/TyC_Sports_logo.svg" group-title="Deportes",TyC Sports
