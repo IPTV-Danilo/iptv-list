@@ -1,1 +1,49 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logotipo_de_America_TV.JPG?v=1776644522" group-title="NACIONALES",America TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png?v=1776644522" group-title="NACIONALES",TV Publica
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1776665415/ei/527laajyDtKNwrcP9d3a8Qk/ip/190.244.73.51/id/P5kePDsFUBg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-uxaxjvh5gbxoupo5-x1xll.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ss/1/ssa/1/bui/AUUZDGLNy4FGaFGXmBFi6PofdxBS37eX8-JxC8Nv2dntBe4XazJs0r3Oj-E0hBH9DIWEJBir0krmT-L6/spc/jlWava9_pOWHXZAYan_zDUB72aVUbjPdt5257WqceCy4SvOKg8vSIUM9KfOrSzF2/vprv/1/reg/0/playlist_type/LIVE/initcwndbps/2312500/met/1776643815,/mh/-U/mm/44/mn/sn-uxaxjvh5gbxoupo5-x1xll/ms/lva/mv/m/mvi/7/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1776643475/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgDZUizZJ4HJEQGEQOsO-w89Jp72-yZemZqkIwnjY-qtoCIBgTiWpjtNmrSsQMZiYFFzoiEYz6OKpKCx15Oo59AB48/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAIZNUl6XWVIifbX6qmc9dFq-xSP66CjxyLf-yfEMXsXXAiEAkeCv1kNCKdaj5moK6wGBx45eCP-jhXEvp4mpLQCoTVM%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png?v=1776644522" group-title="NACIONALES",Telefe
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
+#EXTINF:-1 tvg-id="ELTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png?v=1776644522" group-title="NACIONALES",El Trece
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Telemax.png?v=1776644522" group-title="NACIONALES",Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png?v=1776644522" group-title="NACIONALES",Net TV
+https://rudo.video/rudo.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/A24-logo.svg?v=1776644522" group-title="NOTICIAS",A24
+https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/C5N_logo.svg?v=1776644522" group-title="NOTICIAS",C5N
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1776665558/ei/dm_laf-_DcmaobIP2uzwiQ0/ip/190.244.73.51/id/SF06Qy1Ct6Y.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr7---sn-uxaxjvh5gbxoupo5-x1xll.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/ss/1/ssa/1/bui/AUUZDGID-4fXCOhDoGMcBL5orxVtFqoDqQQjhYNYE6VcW0VREK44vTREDrMT87BlLt9eOU9yZHJZxOtc/spc/jlWavSErTwUbLFRcb5mMM3-ESPsmEmh7Yd4CUfVxNUND_dfJWPIpkZywLxP5OoAm/vprv/1/reg/0/playlist_type/LIVE/hcs/sd/initcwndbps/2312500/met/1776643958,/mh/yp/mm/44/mn/sn-uxaxjvh5gbxoupo5-x1xll/ms/lva/mv/m/mvi/7/pcm2cms/yes/pl/24/rmhost/rr9---sn-uxaxjvh5gbxoupo5-x1xll.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1776643475/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgQla08RBFvzfvVXhQc0pnvUmhItpcS0xtnAbN75F5f7YCIQDYGGkSEPhVlvCCDfzdcKFQPxVzcqWJcQkh5trP78LLkg%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rmhost,rms/lsig/APaTxxMwRQIgDJTZ-qvUeDuJzX9jgJsDYcLcp3FwaQcxx0P5XQdS7H4CIQD0gDgfJjptQ9Ohw55nJ95Z8YF8kxIVTjtYcpZhoLY_ZQ%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Canal_26_logo_%282022%29.svg?v=1776644522" group-title="NOTICIAS",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Cr%C3%B3nica-logo.svg?v=1776644522" group-title="NOTICIAS",Cronica TV
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/CronicaTv_480.m3u8
+#EXTINF:-1 tvg-id="LN+.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/La-Nacion-Mas-Logo.svg?v=1776644522" group-title="NOTICIAS",La Nacion +
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/lntv.playlist.m3u8
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TN_todo_noticias_logo.svg?v=1776644522" group-title="NOTICIAS",TN
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg?v=1776644522" group-title="DEPORTES",ESPN
+https://24a1.streameasthd.net/espn/index.m3u8?token=831f7678f88657abcadbda794883fe54a8cc04bb-53-1776689030-1776635030&ip=190.244.73.51
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ESPN2_logo.svg?v=1776644522" group-title="DEPORTES",ESPN 2
+https://doc1.streameasthd.net/espn2/index.m3u8?token=a9e3f11d418c2c327aaa3fb682bda33fdc7cbbf9-d4-1776689059-1776635059&ip=190.244.73.51
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/ESPN3_logo.svg?v=1776644522" group-title="DEPORTES",ESPN 3
+https://98ca2.streameasthd.net/espn3/tracks-v1a1/mono.m3u8?ip=190.244.73.51&token=79e24d1e241eb507ed9180f8d3fb8fe9b944459b-42-1776689090-1776635090
+#EXTINF:-1 tvg-id="ESPN4.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/ESPN_4_logo.svg?v=1776644522" group-title="DEPORTES",ESPN 4
+https://14c51.streameasthd.net/espn4/index.m3u8?token=8459bef1a6fbbd7293519bd1cf991556fe322e82-49-1776689119-1776635119&ip=190.244.73.51
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/ESPN_5_logo.svg?v=1776644522" group-title="DEPORTES",ESPN 5
+https://51a1.streameasthd.net/espn5/tracks-v1a1/mono.m3u8?ip=190.244.73.51&token=7008f49f948be54e9a81de78ab7a98c978eed69c-68-1776689159-1776635159
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/ESPN_6_logo.svg?v=1776644522" group-title="DEPORTES",ESPN 6
+https://doc1.streameasthd.net/espn6/index.m3u8?token=ae6be6879407d90885a763e47323ff5918d317ad-74-1776689205-1776635205&ip=190.244.73.51
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/ESPN_7_logo.svg?v=1776644522" group-title="DEPORTES",ESPN 7
+https://pecdl1.streameasthd.net/espn7/tracks-v1a1/mono.m3u8?ip=190.244.73.51&token=03e4e0d4f1fe135e278c19adaf5873eb1163ca28-88-1776689251-1776635251
+#EXTINF:-1 tvg-id="FOXSports2.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_sports_2_logo.svg?v=1776644522" group-title="DEPORTES",Fox Sports 2
+https://doc1.streameasthd.net/fox2ar/tracks-v1a1/mono.m3u8?ip=190.244.73.51&token=a3a6e2e2e54a162ced4a6021dbf8342b1af14357-67-1776689380-1776635380
+#EXTINF:-1 tvg-id="FOXSports3.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Fox_sports_3_logo.svg?v=1776644522" group-title="DEPORTES",Fox Sports 3
+https://pecdl1.streameasthd.net/fox3ar/tracks-v1a1/mono.m3u8?ip=190.244.73.51&token=294378ee0d2660037ba48e76fba2e3eae8c05086-fb-1776689434-1776635434
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TNT_Sports_%282023%29.svg?v=1776644522" group-title="DEPORTES",TNT Sports
+https://24a1.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=190.244.73.51&token=8a4c1c69d209d7b03734321e486d584c5ef28b51-a6-1776689462-1776635462
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg?v=1776644522" group-title="DEPORTES",ESPN Premium
+https://pecdl1.streameasthd.net/espnpremium/index.m3u8?token=b2622050c0ab5700826358781f66d94f8894d94c-2b-1776689477-1776635477&ip=190.244.73.51
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/TyC_Sports_logo.svg?v=1776644522" group-title="DEPORTES",TyC Sports
+https://doc1.streameasthd.net/tycsports/tracks-v1a1/mono.m3u8?ip=190.244.73.51&token=ca352b93f980cc0d06cb5bc8ef49811c7137c9d4-aa-1776689494-1776635494
