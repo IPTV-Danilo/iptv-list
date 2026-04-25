@@ -1,75 +1,101 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="America TV.ar" tvg-logo="http://192.168.0.12:5000/static/logos/america_tv.png" group-title="NACIONALES",AMERICA TV
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-id="Television Pública.ar" tvg-logo="http://192.168.0.12:5000/static/logos/tv_publica.png" group-title="NACIONALES",TV PUBLICA
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/tvpublica_720.m3u8
+#EXTINF:-1 tvg-id="Canal 9.ar" tvg-logo="http://192.168.0.12:5000/static/logos/el_nueve.png" group-title="NACIONALES",EL NUEVE
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-16_720.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="http://192.168.0.12:5000/static/logos/telefe.png" group-title="NACIONALES",TELEFE
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/telefe.playlist.m3u8
+#EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="http://192.168.0.12:5000/static/logos/el_trece.png" group-title="NACIONALES",EL TRECE
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="Volver.ar" tvg-logo="http://192.168.0.12:5000/static/logos/volver.png" group-title="NACIONALES",VOLVER
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-74_480.m3u8
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="http://192.168.0.12:5000/static/logos/encuentro.png" group-title="NACIONALES",ENCUENTRO
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-19.playlist.m3u8
+#EXTINF:-1 tvg-id="El Gourmet.ar" tvg-logo="http://192.168.0.12:5000/static/logos/el_gourmet.png" group-title="NACIONALES",EL GOURMET
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-25_720.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="http://192.168.0.12:5000/static/logos/telemax.png" group-title="NACIONALES",TELEMAX
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="http://192.168.0.12:5000/static/logos/net_tv.png" group-title="NACIONALES",NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-logo="http://192.168.0.12:5000/static/logos/ciudad_magazine.png" group-title="NACIONALES",CIUDAD MAGAZINE
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/ciudadmagazine_720.m3u8
+#EXTINF:-1 tvg-id="Canal Rural.ar" tvg-logo="http://192.168.0.12:5000/static/logos/rural.png" group-title="NACIONALES",RURAL
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/rural.playlist.m3u8
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="http://192.168.0.12:5000/static/logos/a24.png" group-title="NOTICIAS",A24
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1777098399/ei/Pwrsaa6sBMG44dUPm67xMA/ip/190.244.73.51/id/ArKbAx1K-2U.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-uxaxjvh5gbxoupo5-x1xll.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AUUZDGK8Ta0P1locSulq6rcTafU0CcAktJJqaKQV1goCQPV91GPMJECUQyrfaGltoG-kO9aQLMfkWCgL/spc/jlWavSZBKmE8okk0FdNVd9oY8vnyARqUIovEv01-09-KOhYqBayMqnQK5WujaeRi/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/2241250/met/1777076799,/mh/C8/mm/44/mn/sn-uxaxjvh5gbxoupo5-x1xll/ms/lva/mv/m/mvi/1/pl/24/rmhost/rr10---sn-uxaxjvh5gbxoupo5-x1xll.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681/mt/1777076434/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgS7QkgQ2yJ90waPIpPIMVFvDuA2dvYMF7S9qNYVv6qXwCIQDRGxAaviQMugEeUD8D_Z2ME9DqVBviC3wr2YXKzYNDOA%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms/lsig/APaTxxMwRAIgVOj1OLHApqLMzsWTXYrjuwvHiJ2kf4zh4Dzit5XE-LICIAWZRvKaZuJDeKl-9XUxZG2caRH9ZehO-e79l8l-Tp0D/playlist/index.m3u8
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="http://192.168.0.12:5000/static/logos/c5n.png" group-title="NOTICIAS",C5N
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/c5n_480.m3u8
 #EXTINF:-1 tvg-id="Canal 26.ar" tvg-logo="http://192.168.0.12:5000/static/logos/canal_26.png" group-title="NOTICIAS",CANAL 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="Cronica.ar" tvg-logo="http://192.168.0.12:5000/static/logos/cronica_tv.png" group-title="NOTICIAS",CRONICA TV
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1777097097/ei/KQXsaYKBOu3m1sQP2MGt4QU/ip/190.244.73.51/id/JC7f3EUDaqw.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr1---sn-uxaxjvh5gbxoupo5-x1xll.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AUUZDGL0qHb8qXsv763ztEbg9JF7XQ9pj_361_M9zt0-Cz5Raf6nARu9DjmtxKjyAP3SJx2n1PLaiHOd/spc/jlWavWTDQ2O0O3D7x2HUt-eDXDAyW5452XXMV6IpHRZXgP5IqYfbPMEjB7kAm4pS/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/2202500/met/1777075498,/mh/Qh/mm/44/mn/sn-uxaxjvh5gbxoupo5-x1xll/ms/lva/mv/m/mvi/1/pcm2cms/yes/pl/24/rmhost/rr10---sn-uxaxjvh5gbxoupo5-x1xll.googlevideo.com/rms/lva,lva/smhost/rr3---sn-uxaxjvh5gbxoupo5-x1xls.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681/mt/1777074995/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRgIhAIldcOCYLyQMoIr1F004Ynt4POARRfwxNmih9SDGCrg_AiEAzYcS7hTbmoK64F4jKLtqdC6mrO6D8z42R9hoL3chgZ4%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rmhost,rms,smhost/lsig/APaTxxMwRQIhAMt092Flf6PwHDl7qoiga_EjX6WMGMjUWk_gJqV0JbEsAiBwJX94ntLxh_ocwG4z2jeb8frdUVAU_V6GQSGDA0QPUQ%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1777098405/ei/RQrsabOvD5uJ4dUPzOqNoAo/ip/190.244.73.51/id/JC7f3EUDaqw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uxaxjvh5gbxoupo5-x1xls.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AUUZDGKRLTXJdXn9avknKt-NYbaOf2azWzmXlrgXXhZJeHB8Z6kuN8JHxxcKFRDjjQPA0p-dCVTwfebT/spc/jlWavdzYpdVnc6mCOD-Wh3b4pB81tLLsA8b7qiCdMkk7pCgDRYQN7i52KR2WC_pT/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/1801250/met/1777076805,/mh/Qh/mm/44/mn/sn-uxaxjvh5gbxoupo5-x1xls/ms/lva/mv/m/mvi/5/pl/24/rmhost/rr3---sn-uxaxjvh5gbxoupo5-x1xls.googlevideo.com/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1777076434/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgASKki-RQSwDgfgf11bvgPhRmOrBzxs-2i34sm5wYzhACIF938U6hPRRb1zv9G7Ve8MGOWiITDSCwZq47sE2gnRJs/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms/lsig/APaTxxMwRQIgHLsu6SxnQlv938SKlwimlPO0SPapKNuMncPycBeg0BgCIQD3jhk4xtSnuQw2bVApjPKHNlHKO1vwD1S1ACvR91bhXA%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="LN+.ar" tvg-logo="http://192.168.0.12:5000/static/logos/la_nacion_+.png" group-title="NOTICIAS",LA NACION +
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1777097101/ei/LQXsacWtJaT4-LAP9ZaNyA0/ip/190.244.73.51/id/DVZ2rJQb_0g.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr6---sn-uxaxjvh5gbxoupo5-x1xll.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AUUZDGI9I8cDGaU7uP6rY00mPIly77OtHqowvJJZU8KITmih8emf_MJSZJdSU5kpuTcJFDlvrauX3y9n/spc/jlWavYC2lEsVt56NoDF4xGYm-xr1fQGlpYNKiZpagbMHYw9Viea_i-p31b3L2Lrr/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/2227500/met/1777075502,/mh/Yx/mm/44/mn/sn-uxaxjvh5gbxoupo5-x1xll/ms/lva/mv/m/mvi/6/pcm2cms/yes/pl/24/rmhost/rr7---sn-uxaxjvh5gbxoupo5-x1xll.googlevideo.com/rms/lva,lva/smhost/rr2---sn-uxaxjvh5gbxoupo5-x1xle.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565681/mt/1777075222/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIgEonry8045hAxKWj9pj_CM5rIGlcsTHKKkQVDCHriA5ICIQDtFES-eRmJZanmwRKJ0GRpPCjiT5TzENHbLk3sH_RifA%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pcm2cms,pl,rmhost,rms,smhost/lsig/APaTxxMwRgIhAILfdMgxffkY0khsQM3DB3sasKdEUMj0hgu5EbEBN9JQAiEAgYUlBe8LJ1NGP9z-Lqsx_KpI16k-fYkkKD2aFG3Q8SQ%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1777098407/ei/Rwrsad6BJamqobIPz5XMqQ4/ip/190.244.73.51/id/DVZ2rJQb_0g.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-uxaxjvh5gbxoupo5-x1xr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AUUZDGI7jusPe3eMNHuy5BPTD-D22seFfTViGmHZoSxoN1xnAwQatutXf-hJgyapau1VgzBT1AeqPhZT/spc/jlWavWUGU_a2W2Im4DQ8UCuG7wLzeJul51YyUXc15LsBJHOzF-QSYIbnwHEbWw-q/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/2367500/met/1777076808,/mh/Yx/mm/44/mn/sn-uxaxjvh5gbxoupo5-x1xr/ms/lva/mv/m/mvi/5/pl/24/rmhost/rr7---sn-uxaxjvh5gbxoupo5-x1xr.googlevideo.com/rms/lva,lva/smhost/rr2---sn-uxaxjvh5gbxoupo5-x1xle.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681/mt/1777076434/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAKpN-29856uRbzvhEnn0uOynnHBwTQkt6yQQT2ne3nphAiA8vcXR93QtXEVAg7zD4DYT8xiYcRm_LPphP18mVmAqtQ%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms,smhost/lsig/APaTxxMwRAIgZzMzLQbJZdlmV15cSgoUqtAxJTRQXzCH-KCqpIldvNUCIEz-bEibUrLWWw8RMRLjfHuiVvNunX89h_d_D74NT7pV/playlist/index.m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="http://192.168.0.12:5000/static/logos/tn.png" group-title="NOTICIAS",TN
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1777097104/ei/MAXsaYrtJJDm1sQPqsiFKQ/ip/190.244.73.51/id/cb12KmMMDJA.3/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr4---sn-uxaxjvh5gbxoupo5-x1xll.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AUUZDGIkCQejqYkMkGgX1jvXqS227-JYd_qTQWRyHodOkj6ydtx88dNKqMxX8gHVU8IUD-1JW516b_NS/spc/jlWavZXLdy9u_zIvBWJ-sja7kg5kmHMQZzl3BiUQ3BXytZh50kTVvzmYolCRyeql/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/2227500/met/1777075505,/mh/o5/mm/44/mn/sn-uxaxjvh5gbxoupo5-x1xll/ms/lva/mv/m/mvi/4/pl/24/rmhost/rr2---sn-uxaxjvh5gbxoupo5-x1xll.googlevideo.com/rms/lva,lva/smhost/rr5---sn-uxaxjvh5gbxoupo5-x1xls.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565682/mt/1777075222/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhAJwYNTHtA0yxE4pOvXohwh7wRfsnD6ipyJF3jQHG6UptAiAqhTcLrGTPUrC-gVt_YewsY1OO1UhTJEjVg2HDk00Gxg%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rmhost,rms,smhost/lsig/APaTxxMwRQIhAICdol9N7B9rokEdic-Os4puvVWVhjgjYnUrNgh1pyyHAiBHYNS-jFMdetE60WCsGkjhlg92bF7wp2FSvMaxO4GDOg%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1777098409/ei/SQrsacqJLs_31sQPqpiNgQQ/ip/190.244.73.51/id/cb12KmMMDJA.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-uxaxjvh5gbxoupo5-x1xy.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AUUZDGLOGFRRvb3Xu13VSa2u0ytT4XwEhOLTubyYJeP7OZBJIwhNykw5Oak9I1EeYBtqaj6pQy0cSw0D/spc/jlWavVCkaI-4QaVO454RgNPc98C1tq7PYWwVe-8kmTvpo_iF_wxwwWIgJKkKzImr/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/2147500/met/1777076810,/mh/o5/mm/44/mn/sn-uxaxjvh5gbxoupo5-x1xy/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/smhost/rr5---sn-uxaxjvh5gbxoupo5-x1xls.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682/mt/1777076434/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgXgLFVqYkEI001Q0lcyt3FvaX3dOX8Tit0_unG2jxtGwCIEeRyoaN1o1ddZMGcsGrq4xTONFqM6jKU5KP4OoU49Rr/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms,smhost/lsig/APaTxxMwRQIhAP8HtEvjK7eamfbYiGp6LIxc3-RadKr4IRZEnlL4NyU5AiAnHIvk0JzTUB7245lfS9_P3n9ZS16zjhRocMBakHs7XQ%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="http://192.168.0.12:5000/static/logos/espn.png" group-title="DEPORTES",ESPN
-https://pre.streameasthd.net/espn/index.m3u8?token=2b3aa903d811c6a039527ae3aa0271b4b635c092-34-1777120508-1777066508&ip=190.244.73.51
+https://doc1.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=190.244.73.51&token=2f73a70b2a91f567bfeefaa90ffa5a06a7e33fe4-49-1777121812-1777067812
 #EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="http://192.168.0.12:5000/static/logos/espn_2.png" group-title="DEPORTES",ESPN 2
-https://deportes.ksdjugfsddeports.com:9092/MTkwLjI0NC43My41MQ==/14_.m3u8?token=_uWsLH1gCCEqC7OhkWxn8g&expires=1777107919
+https://14c51.streameasthd.net/espn2/tracks-v1a1/mono.m3u8?ip=190.244.73.51&token=51c1cf59ab1306becd4ac124cd82165af58080d8-d2-1777121849-1777067849
 #EXTINF:-1 tvg-id="ESPN 3.ar" tvg-logo="http://192.168.0.12:5000/static/logos/espn_3.png" group-title="DEPORTES",ESPN 3
-https://doc1.streameasthd.net/espn3/tracks-v1a1/mono.m3u8?ip=190.244.73.51&token=0fd85af928e83ccc0c6fef92bae490f895ba3ded-6f-1777120529-1777066529
+https://ve.streameasthd.net/espn3/tracks-v1a1/mono.m3u8?ip=190.244.73.51&token=028da73322e9b2d5a9f564d305a0bbd3cd99d63e-3d-1777121887-1777067887
 #EXTINF:-1 tvg-id="FOX Sports HD.ar" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="DEPORTES",FOX SPORTS 
-https://deportes.ksdjugfsddeports.com:9092/MTkwLjI0NC43My41MQ==/8_.m3u8?token=hfuydIS-JJG1gWBO3lzu9w&expires=1777107939
+https://deportes.ksdjugfsddeports.com:9092/MTkwLjI0NC43My41MQ==/8_.m3u8?token=Usvo-qaryrZhwRjvhEo8jg&expires=1777109325
 #EXTINF:-1 tvg-id="FOX Sports 2.ar" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="DEPORTES",FOX SPORTS 2
-https://deportes.ksdjugfsddeports.com:9092/MTkwLjI0NC43My41MQ==/9_.m3u8?token=NTVVFmPqjoye0bUj0LzJ0w&expires=1777107949
+https://98ca2.streameasthd.net/fox2ar/index.m3u8?token=4a1b05b576a9c19b17c1c7b0c7340677985f0377-c2-1777121963-1777067963&ip=190.244.73.51
 #EXTINF:-1 tvg-id="FOX Sports 3.ar" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="DEPORTES",FOX SPORTS 3
-https://deportes.ksdjugfsddeports.com:9092/MTkwLjI0NC43My41MQ==/10_.m3u8?token=q1UCb0gac93IAemXTpZU9w&expires=1777107961
+https://pre.streameasthd.net/fox3ar/tracks-v1a1/mono.m3u8?ip=190.244.73.51&token=d55b8823b002a7b09acd0a7b4e4dd4d4cb665811-0f-1777121996-1777067996
 #EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="DEPORTES",TNT SPORTS
-https://pre.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=190.244.73.51&token=44c4cae7b393a80e2927d93527919753ab6aa8d5-8f-1777120571-1777066571
+https://8c51.streameasthd.net/tntsports/tracks-v1a1/mono.m3u8?ip=190.244.73.51&token=d3dd65422e741ec48f21c32ddf27f71cebcbf077-e8-1777122034-1777068034
 #EXTINF:-1 tvg-id="ESPN Extra.ar" tvg-logo="http://192.168.0.12:5000/static/logos/espn_premium.png" group-title="DEPORTES",ESPN PREMIUM
-https://doc1.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=190.244.73.51&token=d22479277b2827fd4c4327b3b636c29b43e48022-32-1777120581-1777066581
+https://98ca2.streameasthd.net/espnpremium/index.m3u8?token=784cc4da7df8980ecc40b0ec342e77b74973ed6e-36-1777122048-1777068048&ip=190.244.73.51
 #EXTINF:-1 tvg-id="TyC Sports.ar" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="DEPORTES",TyC Sports
-https://deportes.ksdjugfsddeports.com:9092/MTkwLjI0NC43My41MQ==/6_.m3u8?token=KjufQOoWbFFguXaBVYrU6w&expires=1777107993
+https://ve.streameasthd.net/tycsports/tracks-v1a1/mono.m3u8?ip=190.244.73.51&token=f8a6bcd36709fc20ee9121f615b5a740beee9a0c-53-1777122064-1777068064
 #EXTINF:-1 tvg-id="" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="DEPORTES",DSPORTS
-https://14c51.streameasthd.net/dsports/tracks-v1a1/mono.m3u8?ip=190.244.73.51&token=901f1aac29256f5b2d3b3bec45662093c6ac7ba4-28-1777120604-1777066604
+https://14c51.streameasthd.net/dsports/index.m3u8?token=568f351b9d7a90e3a577981e3167fba21731d322-7c-1777122102-1777068102&ip=190.244.73.51
 #EXTINF:-1 tvg-id="" tvg-logo="http://192.168.0.12:5000/static/logos/dsports_2.png" group-title="DEPORTES",DSPORTS 2
-https://98ca2.streameasthd.net/dsports2/tracks-v1a1/mono.m3u8?ip=190.244.73.51&token=fad3021c60bc3298cf7bf9953ff135df142da641-b8-1777120614-1777066614
+https://8c51.streameasthd.net/dsports2/index.m3u8?token=639e586f6a40ca97b4c23147a39bf59b2c739cee-64-1777122116-1777068116&ip=190.244.73.51
 #EXTINF:-1 tvg-id="" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="DEPORTES",DSPORTS +
-https://doc1.streameasthd.net/dsportsplus/tracks-v1a1/mono.m3u8?ip=190.244.73.51&token=21d8f5769973384eda6ad9a9aa661258413a8b50-82-1777120624-1777066624
+https://8c51.streameasthd.net/dsportsplus/index.m3u8?token=bea219e73c73410d752e06f5f966fb3362015418-4c-1777122133-1777068133&ip=190.244.73.51
 #EXTINF:-1 tvg-id="Disney Junior.ar" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="INFANTILES",DISNEY JUNIOR
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8
 #EXTINF:-1 tvg-id="Disney Channel.ar" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="INFANTILES",DISNEY CHANNEL
-https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/28_.m3u8?token=SZ88T1dRFkIC0qvMOzVb1A&expires=1777118837
+https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/28_.m3u8?token=eC4jwQ26VsrS9M9PhHPFSw&expires=1777120352
 #EXTINF:-1 tvg-id="Investigation Discovery.ar" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="DOCUMENTALES",ID INVESTIGACION
-https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/41_.m3u8?token=cUIhOc9tCUFZpgDq1VkU2w&expires=1777118847
+https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/41_.m3u8?token=_EE_amTE79HFzeLTSKBafQ&expires=1777120405
 #EXTINF:-1 tvg-id="History.ar" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="DOCUMENTALES",HISTORY
-https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/44_.m3u8?token=u8EheIasw4e1UM86E7LkMQ&expires=1777118857
+https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/44_.m3u8?token=kfxt3ids6hAs9hN0T0wBAA&expires=1777120443
 #EXTINF:-1 tvg-id="History 2.ar" tvg-logo="http://192.168.0.12:5000/static/logos/history_2.png" group-title="DOCUMENTALES",HISTORY 2
-https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/45_.m3u8?token=PPxZg0jovgktcT4ksQSdUw&expires=1777118866
+https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/45_.m3u8?token=JNDFKnmtz67ZV1ztZ3d1TQ&expires=1777120481
 #EXTINF:-1 tvg-id="Discovery Channel.ar" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="DOCUMENTALES",DISCOVERY CHANNEL
-https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/37_.m3u8?token=lmJ2tW7fNytdwxSH07SiNg&expires=1777118876
+https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/37_.m3u8?token=ZxiHe_WmoJKYpYHVbRIoOw&expires=1777120520
 #EXTINF:-1 tvg-id="Discovery Home and Health.ar" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="DOCUMENTALES",DISCOVERY H&H
-https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/42_.m3u8?token=OROEQ-sKJHhTL8yjZ2QSlg&expires=1777118886
+https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/42_.m3u8?token=-JlJ2SHeQF50xY3Lr9TqYw&expires=1777120558
 #EXTINF:-1 tvg-id="" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="DOCUMENTALES",A&E
-https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/43_.m3u8?token=43dOiK9TI0BasqwW7Cd0aA&expires=1777118896
+https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/43_.m3u8?token=HqeED_RvdCBvvATTH6O2AQ&expires=1777120597
 #EXTINF:-1 tvg-id="National Geographic.ar" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="DOCUMENTALES",NAT GEO
-https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/47_.m3u8?token=74yyEzGlDVNEc5Q_LmU0VA&expires=1777118906
+https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/47_.m3u8?token=E0E87ODoRZGxzfD84Ime8A&expires=1777120644
 #EXTINF:-1 tvg-id="AMC.ar" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="PELIS Y SERIES",AMC
-https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/63_.m3u8?token=UwICJAXe2jIEdweMY-LK7Q&expires=1777118916
+https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/63_.m3u8?token=IRg0UGq18nrw1bUtIESf0Q&expires=1777120682
 #EXTINF:-1 tvg-id="AXN.ar" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="PELIS Y SERIES",AXN
-https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/61_.m3u8?token=MLF6J-8RaVCuRr4SmDEvSw&expires=1777118927
+https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/61_.m3u8?token=SzfqvTwNe2b2BS1qAT7PbA&expires=1777120721
 #EXTINF:-1 tvg-id="FX.ar" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="PELIS Y SERIES",FX
-https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/60_.m3u8?token=cCUA_OZoYXyfR-uPAekP_Q&expires=1777118937
+https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/60_.m3u8?token=TA5ElIhbgyxBEzBKh7HO-Q&expires=1777120760
 #EXTINF:-1 tvg-id="Star Channel.ar" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="PELIS Y SERIES",STAR 
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-68.playlist.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.ar" tvg-logo="http://192.168.0.12:5000/static/logos/cinecanal.png" group-title="PELIS Y SERIES",CINECANAL
-https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/59_.m3u8?token=kU51KF1cZEH4v3IglcasPg&expires=1777118956
+https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/59_.m3u8?token=7R6z8ePOYiDzO-5eXNh3qQ&expires=1777120831
 #EXTINF:-1 tvg-id="Studio Universal.ar" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="PELIS Y SERIES",UNIVERSAL
 http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-67_720.m3u8
-#EXTINF:-1 tvg-id="TNT.ar" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="PELIS Y SERIES",TNT
-https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/52_.m3u8?token=6YsIaWmOLz6UVdwtKLvBiA&expires=1777118976
 #EXTINF:-1 tvg-id="TNT Series.ar" tvg-logo="http://192.168.0.12:5000/static/logos/tnt_series.png" group-title="PELIS Y SERIES",TNT SERIES
-https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/52_.m3u8?token=6YsIaWmOLz6UVdwtKLvBiA&expires=1777118976
+https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/52_.m3u8?token=n2wVOtZ2shy2BAGxUbAMfQ&expires=1777120920
 #EXTINF:-1 tvg-id="Sony.ar" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="PELIS Y SERIES",SONY
-https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/72_.m3u8?token=jw3oeRd5qlDRS_oC_gdkHQ&expires=1777118987
+https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/72_.m3u8?token=OQB7NGjDJBMPGusBD__yew&expires=1777120960
 #EXTINF:-1 tvg-id="" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="PELIS Y SERIES",GOLDEN PLUS
-https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/68_.m3u8?token=QVx6SzINW-AAXs6yZfb-ig&expires=1777118997
+https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/68_.m3u8?token=lmlE9on7GAgpjZuuYtCTmw&expires=1777120998
 #EXTINF:-1 tvg-id="Golden Edge.ar" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="PELIS Y SERIES",GOLDEN EDGE
-https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/69_.m3u8?token=wdm7ue8OR0nwWPvALjXskA&expires=1777119007
+https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/69_.m3u8?token=-kV3JimWoxJGeeultY0k0Q&expires=1777121036
 #EXTINF:-1 tvg-id="" tvg-logo="http://192.168.0.12:5000/static/logos/placeholder.png" group-title="PELIS Y SERIES",GOLDEN PREMIERE
-https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/70_.m3u8?token=Me_cGTACt6OpsMLbtab-ig&expires=1777119016
+https://regionales.saohgdasregions.fun:9092/MTkwLjI0NC43My41MQ==/70_.m3u8?token=0VGYm_1o0wfvOw0x-dFWiA&expires=1777121075
