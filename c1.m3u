@@ -24,19 +24,19 @@ http://190.7.19.197:232/play/a05a/index.m3u8
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHtn.png" group-title="NOTICIAS",TN
-https://mundo2.vip:80/live/1bopl31e3/4347767hd/81324.m3u8
+https://mundo2.vip:80/live/1bopl31e3/4347767hd/81324.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcanal26.png" group-title="NOTICIAS",CANAL 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LN+" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHln+.png" group-title="NOTICIAS",LA NACION +
-https://mundo2.vip:80/live/1bopl31e3/4347767hd/81323.m3u8
+https://mundo2.vip:80/live/1bopl31e3/4347767hd/81323.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHc5n.png" group-title="NOTICIAS",C5N
-https://mundo2.vip:80/live/1bopl31e3/4347767hd/81273.m3u8
+https://mundo2.vip:80/live/1bopl31e3/4347767hd/81273.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Cronica" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcronicatv.png" group-title="NOTICIAS",CRONICA TV
-https://mundo2.vip:80/live/1bopl31e3/4347767hd/81268.m3u8
+https://mundo2.vip:80/live/1bopl31e3/4347767hd/81268.ts
 
 
 
