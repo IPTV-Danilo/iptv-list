@@ -235,10 +235,10 @@ http://190.7.19.197:232/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.ar" tvg-name="Disney Junior" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdisneyjr.png" group-title="INFANTILES",DISNEY JUNIOR
 http://zh193.wpqadpo.top:8080/6821762969872371/aab418ba1b8f/18537
 
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHnickelodeon.png" group-title="INFANTILES",NICKELODEON
+#EXTINF:-1 tvg-id="Nick.cl" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHnickelodeon.png" group-title="INFANTILES",NICKELODEON
 http://190.7.19.197:232/play/a03e/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHnickelodeon.png" group-title="INFANTILES",NICKELODEON
+#EXTINF:-1 tvg-id="Nick.cl" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHnickelodeon.png" group-title="INFANTILES",NICKELODEON
 http://zh193.wpqadpo.top:8080/6821762969872371/aab418ba1b8f/18534
 
 #EXTINF:-1 tvg-id="NickJr..ar" tvg-name="Nick JR" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHnickjr.png" group-title="INFANTILES",NICK JR
