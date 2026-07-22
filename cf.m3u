@@ -270,7 +270,7 @@ http://190.7.19.197:232/play/a01e/index.m3u8
 #EXTINF:-1 tvg-id="FX.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfx.png" group-title="ENTRETENIMIENTOS",FX HD
 http://190.7.19.197:232/play/a04z/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo.png" group-title="ENTRETENIMIENTON",HBO
+#EXTINF:-1 tvg-id="HBO.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo.png" group-title="ENTRETENIMIENTOS",HBO
 http://190.7.19.197:232/play/a05e/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO2.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo2.png" group-title="ENTRETENIMIENTOS",HBO 2
