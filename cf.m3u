@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-kueqomjfrn.xml" refresh="720"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-kueqomjfrn.xml"
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina.png" group-title="NACIONALES" user-agent="iPhone",AMERICA TV SD
 #EXTVLCOPT:http-user-agent=iPhone
