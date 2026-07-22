@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-kueqomjfrn.xml"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-kueqomjfrn.xml" refresh="720"
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina.png" group-title="NACIONALES" user-agent="iPhone",AMERICA TV SD
 #EXTVLCOPT:http-user-agent=iPhone
@@ -165,10 +165,10 @@ http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lT0grR05IOFd4WERlRkl0WVZCMUYyb2c
 #EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.ar" tvg-name="Discovery H&H" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHh&hdiscovery.png" group-title="DOCUMENTALES",DISCOVERY H&H HD
 http://190.7.19.197:232/play/a064/index.m3u8
 
-#EXTINF:-1 tvg-id="InvestigationDiscovery.ar" tvg-name="Discovery ID" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryid.png" group-title="DOCUMENTALES",DISCOVERY ID HD
+#EXTINF:-1 tvg-id="InvestigationDiscovery.cl" tvg-name="Discovery ID" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryid.png" group-title="DOCUMENTALES",DISCOVERY ID HD
 http://190.7.19.197:232/play/a083/index.m3u8
 
-#EXTINF:-1 tvg-id="InvestigationDiscovery.ar" tvg-name="Discovery ID" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryid.png" group-title="DOCUMENTALES",DISCOVERY ID HD
+#EXTINF:-1 tvg-id="InvestigationDiscovery.cl" tvg-name="Discovery ID" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryid.png" group-title="DOCUMENTALES",DISCOVERY ID HD
 http://zh193.wpqadpo.top:8080/6821762969872371/aab418ba1b8f/18526
 
 #EXTINF:-1 tvg-id="DiscoveryScience.cl" tvg-name="Discovery Science" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryscience.png" group-title="DOCUMENTALES",DISCOVERY SCIENCE SD
@@ -194,9 +194,6 @@ http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lT0grR05IOFd4WERlRkl0WVZCMUYycEZ
 
 #EXTINF:-1 tvg-id="DiscoveryWorld.cl" tvg-name="Discovery World" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHworlddiscovery.png" group-title="DOCUMENTALES",DISCOVERY WORLD HD
 http://190.7.19.197:232/play/a055/index.m3u8
-
-#EXTINF:-1 tvg-id="History.ar" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHhistory.png" group-title="DOCUMENTALES",HISTORY HD
-http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lT0grR05IOFd4WERlRkl0WVZCMUYycExlS1lybTBVa01lYmxMS2Fuc0ZHRA
 
 #EXTINF:-1 tvg-id="History.ar" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHhistory.png" group-title="DOCUMENTALES",HISTORY HD
 http://190.7.19.197:232/play/a03t/index.m3u8
@@ -249,3 +246,74 @@ http://zh193.wpqadpo.top:8080/6821762969872371/aab418ba1b8f/18535
 
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Paka Paka" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHpakapaka.png" group-title="INFANTILES",PAKAPAKA
 http://190.7.19.197:232/play/a08e/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHamc.png" group-title="ENTRETENIMIENTOS",AMC
+http://190.7.19.197:232/play/a046/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHaxn.png" group-title="ENTRETENIMIENTOS",AXN HD
+http://190.7.19.197:232/play/a00b/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinecanal.png" group-title="ENTRETENIMIENTOS",CINECANAL HD
+http://190.7.19.197:232/play/a05y/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinemax.png" group-title="ENTRETENIMIENTOS",CINEMAX
+http://190.7.19.197:232/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-id="filmAndarts.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfilm&arts.png" group-title="ENTRETENIMIENTOS",FILM & ARTS HD
+http://190.7.19.197:232/play/a01e/index.m3u8
+
+#EXTINF:-1 tvg-id="FX.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfx.png" group-title="ENTRETENIMIENTOS",FX HD
+http://190.7.19.197:232/play/a04z/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo.png" group-title="ENTRETENIMIENTON",HBO
+http://190.7.19.197:232/play/a05e/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo2.png" group-title="ENTRETENIMIENTOS",HBO 2
+http://190.7.19.197:232/play/a05g/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOFamily.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbofamily.png" group-title="ENTRETENIMIENTOS",HBO FAMILY
+http://190.7.19.197:232/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOPlusEste.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo+.png" group-title="ENTRETENIMIENTOS",HBO PLUS
+http://190.7.19.197:232/play/a05f/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOPop.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbopop.png" group-title="ENTRETENIMIENTOS",HBO POP
+http://190.7.19.197:232/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOSignature.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbosignature.png" group-title="ENTRETENIMIENTOS",HBO SIGNATURE
+http://190.7.19.197:232/play/a04g/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhboxtreme.png" group-title="ENTRETENIMIENTOS",HBO XTREME
+http://190.7.19.197:232/play/a017/index.m3u8
+
+#EXTINF:-1 tvg-id="Sony.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonychannel.png" group-title="ENTRETENIMIENTOS",SONY HD
+http://190.7.19.197:232/play/a01g/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sony_Movies_Logo.png" group-title="ENTRETENIMIENTOS",SONY MOVIES HD
+http://190.7.19.197:232/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-id="Space.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHspace.png" group-title="ENTRETENIMIENTOS",SPACE HD
+http://190.7.19.197:232/play/a050/index.m3u8
+
+#EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstarchannel.png" group-title="ENTRETENIMIENTOS",STAR CHANNEL HD
+http://190.7.19.197:232/play/a05w/index.m3u8
+
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstudiouniversal.png" group-title="ENTRETENIMIENTOS",STUDIO UNIVERSAL
+http://190.7.19.197:232/play/a049/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtnt.png" group-title="ENTRETENIMIENTOS",TNT HD
+http://190.7.19.197:232/play/a060/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtntseries.png" group-title="ENTRETENIMIENTOS",TNT SERIES HD
+http://190.7.19.197:232/play/a088/index.m3u8
+
+#EXTINF:-1 tvg-id="Volver.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHvolver.png" group-title="ENTRETENIMIENTOS",VOLVER
+http://190.7.19.197:232/play/a048/index.m3u8
+
+#EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHwarnertv.png" group-title="ENTRETENIMIENTOS",WARNER CHANNEL HD
+http://190.7.19.197:232/play/a01h/index.m3u8
