@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-kueqomjfrn.xml" refresh="720" 
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina.png" group-title="NACIONALES",AMERICA TV HD
 http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQ1lMc3dNYlROTE4vY1lvejFDL0lHMm1HQ3ZycWdTSVhsK25ZRS9RNVRaNQ
