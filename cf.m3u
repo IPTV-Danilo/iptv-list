@@ -1,0 +1,434 @@
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-kueqomjfrn.xml" refresh="720"
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina.png" group-title="NACIONALES",AMERICA TV HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQ1lMc3dNYlROTE4vY1lvejFDL0lHMm1HQ3ZycWdTSVhsK25ZRS9RNVRaNQ
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-name="America TV HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_tv_argentina.png" group-title="NACIONALES",AMERICA TV HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQ1lMc3dNYlROTE4vY1lvejFDL0lHMXUvVXU3WGh0bk4yZElQR0sxeVlXaQ
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/television_publica_argentina.png" group-title="NACIONALES",TV PUBLICA HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQ1lMc3dNYlROTE4vY1lvejFDL0lHMVRvS3dBaDlZMzd5T2RXUTBJZ3NsVA
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Publica HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/television_publica_argentina.png" group-title="NACIONALES",TV PUBLICA HD
+http://rlatinop.com:8880/eeuu5488aa@/v3cStmR5Q2Wu/490456
+
+#EXTINF:-1 tvg-id="ELNueve.ar" tvg-name="El Nueve HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_argentina.png" group-title="NACIONALES",EL NUEVE HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQ1lMc3dNYlROTE4vY1lvejFDL0lHM0VacklCVysybUtZRk45MXNSQmM5NQ
+
+#EXTINF:-1 tvg-id="ELNueve.ar" tvg-name="El Nueve HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/9_de_argentina.png" group-title="NACIONALES",EL NUEVE HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQ1lMc3dNYlROTE4vY1lvejFDL0lHMEh2RW9NdC8vOUc3NEw3M0pQWUgvOA
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina.png" group-title="NACIONALES",TELEFE SD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQ1lMc3dNYlROTE4vY1lvejFDL0lHMlF2aWIxYkJoNVNzRHJPR1NQdGU1SA
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina.png" group-title="NACIONALES",TELEFE HD
+http://rlatinop.com:8880/eeuu5488aa@/v3cStmR5Q2Wu/490458
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/telefe_argentina.png" group-title="NACIONALES",TELEFE HD
+http://rlatinop.com:8880/eeuu5488aa@/v3cStmR5Q2Wu/490439
+
+#EXTINF:-1 tvg-id="ELTrece.ar" tvg-name="El Trece HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina.png" group-title="NACIONALES",EL TRECE HD
+#EXTVLCOPT:http-referrer=https://vodgc.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://vodgc.net&User-Agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1 tvg-id="ELTrece.ar" tvg-name="El Trece HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina.png" group-title="NACIONALES",EL TRECE HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQ1lMc3dNYlROTE4vY1lvejFDL0lHMnhydGVlTUpjTFNUMkNHMG9WUTl3OQ
+
+#EXTINF:-1 tvg-id="ELTrece.ar" tvg-name="El Trece HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina.png" group-title="NACIONALES",EL TRECE HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQ1lMc3dNYlROTE4vY1lvejFDL0lHMUdUNnZCSHRHeTZSSDFoMHo1bklKUg
+
+#EXTINF:-1 tvg-id="ELTrece.ar" tvg-name="El Trece HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/13_de_argentina.png" group-title="NACIONALES",EL TRECE HD
+http://rlatinop.com:8880/eeuu5488aa@/v3cStmR5Q2Wu/490440
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="NOTICIAS",A24 HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQ1lMc3dNYlROTE4vY1lvejFDL0lHMEczU1ZWQmZXK3BhVVhZb3NoYnVEMw
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="NOTICIAS",A24 HD
+http://rlatinop.com:8880/eeuu5488aa@/v3cStmR5Q2Wu/490446
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="A24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="NOTICIAS" user-agent="iPhone",A24 HD
+#EXTVLCOPT:http-user-agent=iPhone
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/todo_notcias.png" group-title="NOTICIAS",TN HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQ1lMc3dNYlROTE4vY1lvejFDL0lHMit5L1VGTG5jMkNYWTF2ZlN1ZnJ3bw
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/todo_notcias.png" group-title="NOTICIAS",TN HD
+http://rlatinop.com:8880/eeuu5488aa@/v3cStmR5Q2Wu/490437
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26 SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/26_de_argentina.png" group-title="NOTICIAS",CANAL 26 SD
+http://190.7.19.197:232/play/a042/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/26_de_argentina.png" group-title="NOTICIAS",CANAL 26 HD
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/26_de_argentina.png" group-title="NOTICIAS",CANAL 26 HD
+http://rlatinop.com:8880/eeuu5488aa@/v3cStmR5Q2Wu/490438
+
+#EXTINF:-1 tvg-id="LN+.ar" tvg-name="La Nacion + SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_nacion_mas.png" group-title="NOTICIAS",LA NACION + SD
+http://190.7.19.197:232/play/a043/index.m3u8
+
+#EXTINF:-1 tvg-id="LN+.ar" tvg-name="La Nacion + HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_nacion_mas.png" group-title="NOTICIAS",LA NACION + HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQ1lMc3dNYlROTE4vY1lvejFDL0lHMkZjQVVvODhpelZ5UDBINFd0WGNBTw
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N HD"https://imagenes.gatotv.com/logos/canales/oscuros/c5n.png" group-title="NOTICIAS",C5N HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQ1lMc3dNYlROTE4vY1lvejFDL0lHMUlEMHRHakZIU0E4N2JvcWZCaVp3UA
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N HD"https://imagenes.gatotv.com/logos/canales/oscuros/c5n.png" group-title="NOTICIAS",C5N HD
+http://zh193.wpqadpo.top:8080/6821762969872371/aab418ba1b8f/9989
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Cronica SD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cronica_television.png" group-title="NOTICIAS",CRONICA SD
+http://rlatinop.com:8880/eeuu5488aa@/v3cStmR5Q2Wu/490452
+
+
+
+
+
+#EXTINF:-1 tvg-id="DIRECTVSports.cl" tvg-name="DSports HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="DEPORTES",DSPORTS HD
+http://190.7.19.197:232/play/a09i/index.m3u8
+
+#EXTINF:-1 tvg-id="DIRECTVSports.cl" tvg-name="DSports HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="DEPORTES",DSPORTS HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lTXYxdkduWXhmUnM2UWg0cHRhR1NsOWRUSzVXQm9KNkl4c0hRYzN2RlhBOA
+
+#EXTINF:-1 tvg-id="DIRECTVSports2.cl" tvg-name="DSports 2 HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports2.png" group-title="DEPORTES",DSPORTS 2 HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lTXYxdkduWXhmUnM2UWg0cHRhR1NsOEhSbyt5WkJVSjRUM29YNFJmTkxHRw
+
+#EXTINF:-1 tvg-id="DIRECTVSports2.cl" tvg-name="DSports 2 HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports2.png" group-title="DEPORTES",DSPORTS 2 HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lTXYxdkduWXhmUnM2UWg0cHRhR1NsKzFLaThHbDRsUStER3ZVdHhNQVpydg
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte.png" group-title="DEPORTES",ESPN HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQmNuUVhMQUcyK0pqQkNEdklXYlRYYW9BUmMrdXJHcU55cGFyRWthUG1GZA
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte.png" group-title="DEPORTES",ESPN HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQmNuUVhMQUcyK0pqQkNEdklXYlRYYnJ0WFJkRWhqOThTQkZhU1lsRlJmdQ
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte.png" group-title="DEPORTES",ESPN HD
+http://rlatinop.com:8880/eeuu5488aa@/v3cStmR5Q2Wu/327914
+
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png" group-title="DEPORTES",ESPN 2 HD
+http://rlatinop.com:8880/eeuu5488aa@/v3cStmR5Q2Wu/327915
+
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte.png" group-title="DEPORTES",ESPN 3 HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQmNuUVhMQUcyK0pqQkNEdklXYlRYWUw2VkMySkNEdzlFR1BHS3RsOVZRTQ
+
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte.png" group-title="DEPORTES",ESPN 3 HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQmNuUVhMQUcyK0pqQkNEdklXYlRYYmg5VVQwWFpJSmpZVFQ5enZRT0Q1dw
+
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte.png" group-title="DEPORTES",ESPN 3 HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQmNuUVhMQUcyK0pqQkNEdklXYlRYWUw2VkMySkNEdzlFR1BHS3RsOVZRTQ
+
+#EXTINF:-1 tvg-id="ESPN4.ar" tvg-name="ESPN 4 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4.png" group-title="DEPORTES",ESPN 4 HD
+http://181.78.79.131:8000/play/a0s9
+
+#EXTINF:-1 tvg-id="FOXSportsConoSur.ar" tvg-name="FOX SPORTS HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports.png" group-title="DEPORTES",FOX SPORTS HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQmNuUVhMQUcyK0pqQkNEdklXYlRYYVhzVTlmbTh0VzVnL25GeE1aaHRFOA
+
+#EXTINF:-1 tvg-id="FOXSportsConoSur.ar" tvg-name="FOX SPORTS HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports.png" group-title="DEPORTES",FOX SPORTS HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQmNuUVhMQUcyK0pqQkNEdklXYlRYWXNoVUovWFVTTm16MFY3VGxTSys5Rg
+
+#EXTINF:-1 tvg-id="FOXSports2.ar" tvg-name="Fox Sports 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2.png" group-title="DEPORTES",FOX SPORTS 2 HD
+http://190.7.19.197:232/play/a03p/index.m3u8
+
+#EXTINF:-1 tvg-id="FOXSports2.ar" tvg-name="Fox Sports 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2.png" group-title="DEPORTES",FOX SPORTS 2 HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lTXYxdkduWXhmUnM2UWg0cHRhR1NsL0xYQjFwMUVMUm0wdGN4WWJUY20zMw
+
+#EXTINF:-1 tvg-id="FOXSports3.ar" tvg-name="Fox Sports 3" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3.png" group-title="DEPORTES",FOX SPORTS 3 HD
+http://190.7.19.197:232/play/a04x/index.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png" group-title="DEPORTES",TYC SPORTS HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQ1lMc3dNYlROTE4vY1lvejFDL0lHMVVEUmZFYzlBSGk1WHQxUm1TalIvNw
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png" group-title="DEPORTES",TYC SPORTS HD
+http://rlatinop.com:8880/eeuu5488aa@/v3cStmR5Q2Wu/327918
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png" group-title="DEPORTES",TNT SPORTS HD
+http://zh193.wpqadpo.top:8080/6821762969872371/aab418ba1b8f/18394
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png" group-title="DEPORTES",TNT SPORTS HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQ1lMc3dNYlROTE4vY1lvejFDL0lHMmlWejdkSytXa2QrWU1oZWJCLzlzNw
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png" group-title="DEPORTES",ESPN PREMIUM
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lT1JoU0JGc3RzSndvTHBocmh5SVZEUG9jV0VnN3JDMkdpNkxIdWE0L25Tbw
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-name="ANIMAL PLANET SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png" group-title="DOCUMENTALES",ANIMAL PLANET SD
+http://zh193.wpqadpo.top:8080/6821762969872371/aab418ba1b8f/18521
+
+#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-name="ANIMAL PLANET SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png" group-title="DOCUMENTALES",ANIMAL PLANET SD
+http://181.78.50.91:8000/play/a03y/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-name="ANIMAL PLANET HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png" group-title="DOCUMENTALES",ANIMAL PLANET HD
+http://181.224.200.5:2277/play/a00r/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-name="ANIMAL PLANET HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png" group-title="DOCUMENTALES",ANIMAL PLANET HD
+http://181.78.50.91:8000/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-name="ANIMAL PLANET HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png" group-title="DOCUMENTALES",ANIMAL PLANET HD
+http://181.224.255.210:8001/play/a0lz/index.m3u8
+
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.ar" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscovery.png" group-title="DOCUMENTALES",DISCOVERY CHANNEL SD
+http://181.78.50.91:8000/play/a03x/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.ar" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscovery.png" group-title="DOCUMENTALES",DISCOVERY CHANNEL HD
+http://181.78.50.91:8000/play/a05t/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.ar" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscovery.png" group-title="DOCUMENTALES",DISCOVERY CHANNEL HD
+http://181.224.255.210:8001/play/a0m0/index.m3u8
+
+
+#EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.ar" tvg-name="DISCOVERY H&H SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHh&hdiscovery.png" group-title="DOCUMENTALES",DISCOVERY H&H SD
+http://181.78.50.91:8000/play/a052/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryHomeAndHealth.ar" tvg-name="DISCOVERY H&H HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHh&hdiscovery.png" group-title="DOCUMENTALES",DISCOVERY H&H HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lT0grR05IOFd4WERlRkl0WVZCMUYyb2c2SFA3Q1NTRlNJYi92bjQwZFhzbA
+
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.cl" tvg-name="DISCOVERY ID SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryid.png" group-title="DOCUMENTALES",DISCOVERY ID SD
+http://181.78.50.91:8000/play/a053/index.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.cl" tvg-name="DISCOVERY ID HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryid.png" group-title="DOCUMENTALES",DISCOVERY ID HD
+http://181.78.50.91:8000/play/a05x/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="DiscoveryScience.cl" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryscience.png" group-title="DOCUMENTALES",DISCOVERY SCIENCE SD
+http://181.224.255.210:8001/play/a0mo/index.m3u8
+
+
+#EXTINF:-1 tvg-id="DiscoveryTheater.cl" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHtheaterdiscovery.png" group-title="DOCUMENTALES",DISCOVERY THEATER HD
+http://181.224.255.210:8001/play/a0fc/index.m3u8
+
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.ar" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHturbodiscovery.png" group-title="DOCUMENTALES",DISCOVERY TURBO SD
+http://181.78.50.91:8000/play/a051/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.ar" tvg-name="DISCOVERY TURBO SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHturbodiscovery.png" group-title="DOCUMENTALES",DISCOVERY TURBO SD
+http://181.224.255.210:8001/play/a0q2/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.ar" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHturbodiscovery.png" group-title="DOCUMENTALES",DISCOVERY TURBO HD
+http://zh193.wpqadpo.top:8080/6821762969872371/aab418ba1b8f/18522
+
+
+#EXTINF:-1 tvg-id="DiscoveryWorld.cl" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHworlddiscovery.png" group-title="DOCUMENTALES",DISCOVERY WORLD HD
+http://181.78.50.91:8000/play/a05u/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryWorld.cl" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHworlddiscovery.png" group-title="DOCUMENTALES",DISCOVERY WORLD HD
+http://181.224.255.210:8001/play/a0lt/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="History.ar" tvg-name="HISTORY SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHhistory.png" group-title="DOCUMENTALES",HISTORY SD
+http://181.78.50.91:8000/play/a03z/index.m3u8
+
+
+#EXTINF:-1 tvg-id="History2.ar" tvg-name="HISTORY 2 SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHh2history.png" group-title="DOCUMENTALES",HISTORY 2 SD
+http://181.78.50.91:8000/play/a02x/index.m3u8
+
+
+#EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-name="Nathttp://181.78.50.91:8000/play/a02x/index.m3u8Geo" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHnatgeo.png" group-title="DOCUMENTALES",NAT GEO HD
+http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lT0grR05IOFd4WERlRkl0WVZCMUYycXJFNXlMNVkzcVNJRzZ2bTh5OWYwTw
+
+#EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-name="NatGeo" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHnatgeo.png" group-title="DOCUMENTALES",NAT GEO HD
+http://190.7.19.197:232/play/a03s/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHcartoonnetwork.png" group-title="INFANTILES",CARTOON NETWORK HD
+http://181.78.50.91:8000/play/a00l/index.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHcartoonnetwork.png" group-title="INFANTILES",CARTOON NETWORK HD
+http://181.224.255.210:8001/play/a0py/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKids.ar" tvg-name="DISCOVERY KIDS HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdiscoverykids.png" group-title="INFANTILES",DISCOVERY KIDS HD
+http://181.224.255.210:8001/play/a0pv/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannel.ar" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdisneychannel.png" group-title="INFANTILES",DISNEY CHANNEL HD
+http://181.78.50.91:8000/play/a04w/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="DisneyJunior.ar" tvg-name="DISNEY JUNIOR SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdisneyjr.png" group-title="INFANTILES",DISNEY JUNIOR SD
+http://181.224.255.210:8001/play/a0ny/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.ar" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdisneyjr.png" group-title="INFANTILES",DISNEY JUNIOR HD
+#EXTVLCOPT:http-referrer=http://tr.live.clarovtrcdn.vtrplay.com/
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 tvg-id="Nick.cl" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHnickelodeon.png" group-title="INFANTILES",NICKELODEON SD
+http://190.7.19.197:232/play/a03e/index.m3u8
+
+#EXTINF:-1 tvg-id="Nick.cl" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHnickelodeon.png" group-title="INFANTILES",NICKELODEON HD
+http://181.224.255.210:8001/play/a0fm/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="NickJr..ar" tvg-name="Nick JR" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHnickjr.png" group-title="INFANTILES",NICK JR SD
+http://190.7.19.197:232/play/a01n/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJr..ar" tvg-name="Nick JR" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHnickjr.png" group-title="INFANTILES",NICK JR HD
+http://181.78.67.171:8000/play/a0kc/index.m3u8
+
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Paka Paka" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHpakapaka.png" group-title="INFANTILES",PAKAPAKA SD
+http://190.7.19.197:232/play/a08e/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHamc.png" group-title="ENTRETENIMIENTOS",AMC SD
+http://181.78.50.91:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHamc.png" group-title="ENTRETENIMIENTOS",AMC HD
+http://181.78.50.91:8000/play/a01z/index.m3u8
+
+#EXTINF:-1 tvg-id="AMC.ar" tvg-name="AMC HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHamc.png" group-title="ENTRETENIMIENTOS",AMC HD
+http://181.224.255.210:8001/play/a0f7/index.m3u8
+
+
+#EXTINF:-1 tvg-id="AXN.ar" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHaxn.png" group-title="ENTRETENIMIENTOS",AXN HD
+http://181.78.50.91:8000/play/a05i/index.m3u8
+
+#EXTINF:-1 tvg-id="AXN.ar" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHaxn.png" group-title="ENTRETENIMIENTOS",AXN HD
+http://181.224.255.210:8001/play/a0m8/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="CINECANAL SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinecanal.png" group-title="ENTRETENIMIENTOS",CINECANAL SD
+http://181.78.192.238:8000/play/a1m4/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="CINECANAL HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinecanal.png" group-title="ENTRETENIMIENTOS",CINECANAL HD
+http://181.224.255.210:8001/play/a0ob/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="CINECANAL HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinecanal.png" group-title="ENTRETENIMIENTOS",CINECANAL HD
+http://181.78.50.91:8000/play/a048/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="CINECANAL HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinecanal.png" group-title="ENTRETENIMIENTOS",CINECANAL HD
+http://186.148.196.100:8000/play/a02o
+
+
+
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="CINEMAX SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinemax.png" group-title="ENTRETENIMIENTOS",CINEMAX SD
+http://181.224.255.210:8001/play/a0mk/index.m3u8?hls
+
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="CINEMAX SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinemax.png" group-title="ENTRETENIMIENTOS",CINEMAX SD
+http://38.224.231.47:8000/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="CINEMAX SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinemax.png" group-title="ENTRETENIMIENTOS",CINEMAX SD
+http://181.78.197.59:8000/play/a08f/index.m3u8
+
+
+#EXTINF:-1 tvg-id="filmAndarts.ar" tvg-name="FILM & ARTS SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfilm&arts.png" group-title="ENTRETENIMIENTOS",FILM & ARTS SD
+http://181.224.255.210:8001/play/a0ql/index.m3u8
+
+#EXTINF:-1 tvg-id="filmAndarts.ar" tvg-name="FILM & ARTS HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfilm&arts.png" group-title="ENTRETENIMIENTOS",FILM & ARTS HD
+http://181.78.50.91:8000/play/a01x/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="FX.ar" tvg-name="FX HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfx.png" group-title="ENTRETENIMIENTOS",FX HD
+http://181.78.50.91:8000/play/a021/index.m3u8
+
+#EXTINF:-1 tvg-id="FX.ar" tvg-name="FX HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfx.png" group-title="ENTRETENIMIENTOS",FX HD
+http://181.224.255.210:8001/play/a0ge/index.m3u8
+
+
+#EXTINF:-1 tvg-id="HBO.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo.png" group-title="ENTRETENIMIENTOS",HBO HD
+http://181.224.255.210:8001/play/a0f161/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo.png" group-title="ENTRETENIMIENTOS",HBO HD
+http://181.78.50.91:8000/play/a00m/index.m3u8
+
+
+#EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO 2 HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo2.png" group-title="ENTRETENIMIENTOS",HBO 2 HD
+http://181.78.50.91:8000/play/a00n/index.m3u8
+
+
+#EXTINF:-1 tvg-id="HBOFamily.ar" tvg-name="HBO FAMILY HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbofamily.png" group-title="ENTRETENIMIENTOS",HBO FAMILY HD
+http://181.78.50.91:8000/play/a00p/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="HBOPlusEste.ar" tvg-name="HBO PLUS HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo+.png" group-title="ENTRETENIMIENTOS",HBO PLUS HD
+http://181.78.50.91:8000/play/a00o/index.m3u8
+
+
+#EXTINF:-1 tvg-id="HBOPop.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbopop.png" group-title="ENTRETENIMIENTOS",HBO POP
+http://190.7.19.197:232/play/a016/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOSignature.ar" tvg-name="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbosignature.png" group-title="ENTRETENIMIENTOS",HBO SIGNATURE
+http://190.7.19.197:232/play/a04g/index.m3u8
+
+
+#EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-name="HBO XTREME HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhboxtreme.png" group-title="ENTRETENIMIENTOS",HBO XTREME HD
+http://181.78.79.131:8000/play/a0qy
+
+#EXTINF:-1 tvg-id="HBOXtreme.ar" tvg-name="HBO XTREME HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhboxtreme.png" group-title="ENTRETENIMIENTOS",HBO XTREME HD
+http://181.78.50.91:8000/play/a065/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Sony.ar" tvg-name="SONY SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonychannel.png" group-title="ENTRETENIMIENTOS",SONY SD
+http://181.78.50.91:8000/play/a03t/index.m3u8
+
+#EXTINF:-1 tvg-id="Sony.ar" tvg-name="SONY HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonychannel.png" group-title="ENTRETENIMIENTOS",SONY HD
+http://181.78.50.91:8000/play/a047/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY MOVIES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Sony_Movies_Logo.png" group-title="ENTRETENIMIENTOS",SONY MOVIES HD
+http://181.78.50.91:8000/play/a023/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Space.ar" tvg-name="SPACE HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHspace.png" group-title="ENTRETENIMIENTOS",SPACE HD
+http://181.78.50.91:8000/play/a05j/index.m3u8
+
+#EXTINF:-1 tvg-id="StarChannel.ar" tvg-name="STAR CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstarchannel.png" group-title="ENTRETENIMIENTOS",STAR CHANNEL HD
+http://181.78.50.91:8000/play/a045/index.m3u8
+
+
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstudiouniversal.png" group-title="ENTRETENIMIENTOS",STUDIO UNIVERSAL SD
+http://181.78.50.91:8000/play/a059/index.m3u8
+
+#EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstudiouniversal.png" group-title="ENTRETENIMIENTOS",STUDIO UNIVERSAL HD
+http://181.78.50.91:8000/play/a01u/index.m3u8
+
+
+#EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtnt.png" group-title="ENTRETENIMIENTOS",TNT SD
+http://181.78.50.91:8000/play/a01i/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.ar" tvg-name="TNT HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtnt.png" group-title="ENTRETENIMIENTOS",TNT HD
+http://181.78.50.91:8000/play/a04b/index.m3u8
+
+
+#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT SERIES SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtntseries.png" group-title="ENTRETENIMIENTOS",TNT SERIES SD
+http://181.78.50.91:8000/play/a01a/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSeries.ar" tvg-name="TNT SERIES HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtntseries.png" group-title="ENTRETENIMIENTOS",TNT SERIES HD
+http://181.78.50.91:8000/play/a05s/index.m3u8
+
+
+#EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-name="WARNER CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHwarnertv.png" group-title="ENTRETENIMIENTOS",WARNER CHANNEL HD
+http://181.224.255.210:8001/play/a0od/index.m3u8
+
+#EXTINF:-1 tvg-id="WarnerChannel.ar" tvg-name="WARNER CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHwarnertv.png" group-title="ENTRETENIMIENTOS",WARNER CHANNEL HD
+http://181.78.50.91:8000/play/a046/index.m3u8
+
+
+
+
+
+
+
