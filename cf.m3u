@@ -212,6 +212,8 @@ http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQ1lMc3dNYlROTE4vY1lvejFDL0lHMml
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png" group-title="DEPORTES",ESPN PREMIUM
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.230 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=http://miotv.cc:8080
+#EXTVLCOPT:http-origin=http://miotv.cc:8080
 http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lT1JoU0JGc3RzSndvTHBocmh5SVZEUG9jV0VnN3JDMkdpNkxIdWE0L25Tbw
 
 
