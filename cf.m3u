@@ -47,8 +47,10 @@ http://15.204.246.24:8080/TNHD/index.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 #EXTINF:-1 tvg-id="LN+.ar" tvg-name="La Nacion + HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/la_nacion_mas.png" group-title="NOTICIAS",LA NACION + HD
-http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQ1lMc3dNYlROTE4vY1lvejFDL0lHMkZjQVVvODhpelZ5UDBINFd0WGNBTw
+http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/1974
 
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N HD"https://imagenes.gatotv.com/logos/canales/oscuros/c5n.png" group-title="NOTICIAS",C5N HD
+http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/1103
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N HD"https://imagenes.gatotv.com/logos/canales/oscuros/c5n.png" group-title="NOTICIAS",C5N HD
 http://zh193.wpqadpo.top:8080/6821762969872371/aab418ba1b8f/9989
@@ -61,7 +63,7 @@ http://voodvooxqha.top:8080/vip2421768765133/6ea03793ba76/4746
 
 
 #EXTINF:-1 tvg-id="DIRECTVSports.cl" tvg-name="DSports HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="DEPORTES",DSPORTS HD
-http://voodvooxqha.top:8080/vip2421768765133/6ea03793ba76/4748
+http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/258844
 
 #EXTINF:-1 tvg-id="DIRECTVSports.cl" tvg-name="DSports HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png" group-title="DEPORTES",DSPORTS HD
 http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lTXYxdkduWXhmUnM2UWg0cHRhR1NsOWRUSzVXQm9KNkl4c0hRYzN2RlhBOA
@@ -85,17 +87,23 @@ http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQmNuUVhMQUcyK0pqQkNEdklXYlRYYW9
 #EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png" group-title="DEPORTES",ESPN 2 HD
 http://190.108.83.69:8000/play/a09f/index.m3u8
 
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte.png" group-title="DEPORTES",ESPN 2 HD
+http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/1126
+
 #EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte.png" group-title="DEPORTES",ESPN 3 HD
 http://190.108.83.69:8000/play/a09g/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte.png" group-title="DEPORTES",ESPN 3 HD
+http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/1127
 
 #EXTINF:-1 tvg-id="ESPN4.ar" tvg-name="ESPN 4 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4.png" group-title="DEPORTES",ESPN 4 HD
 http://181.78.79.131:8000/play/a0s9
 
 #EXTINF:-1 tvg-id="FOXSportsConoSur.ar" tvg-name="FOX SPORTS HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports.png" group-title="DEPORTES",FOX SPORTS HD
-http://voodvooxqha.top:8080/vip2421768765133/6ea03793ba76/4764
+http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/58210
 
 #EXTINF:-1 tvg-id="FOXSportsConoSur.ar" tvg-name="FOX SPORTS HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports.png" group-title="DEPORTES",FOX SPORTS HD
-http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQmNuUVhMQUcyK0pqQkNEdklXYlRYYVhzVTlmbTh0VzVnL25GeE1aaHRFOA
+http://voodvooxqha.top:8080/vip2421768765133/6ea03793ba76/4764
 
 #EXTINF:-1 tvg-id="FOXSportsConoSur.ar" tvg-name="FOX SPORTS HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports.png" group-title="DEPORTES",FOX SPORTS HD
 http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQmNuUVhMQUcyK0pqQkNEdklXYlRYWXNoVUovWFVTTm16MFY3VGxTSys5Rg
@@ -107,19 +115,26 @@ http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lTXYxdkduWXhmUnM2UWg0cHRhR1NsL0x
 http://voodvooxqha.top:8080/vip2421768765133/6ea03793ba76/4766
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png" group-title="DEPORTES",TYC SPORTS HD
-http://voodvooxqha.top:8080/vip2421768765133/6ea03793ba76/4822
+http://45.181.87.106/TYCSPORTSHD/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png" group-title="DEPORTES",TYC SPORTS HD
-http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQ1lMc3dNYlROTE4vY1lvejFDL0lHMVVEUmZFYzlBSGk1WHQxUm1TalIvNw
+http://voodvooxqha.top:8080/vip2421768765133/6ea03793ba76/4822
+
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png" group-title="DEPORTES",TYC SPORTS INT
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png" group-title="DEPORTES",TNT SPORTS HD
+http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/1122
 
 #EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png" group-title="DEPORTES",TNT SPORTS HD
 http://zh193.wpqadpo.top:8080/6821762969872371/aab418ba1b8f/18394
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png" group-title="DEPORTES",TNT SPORTS HD
-http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lQ1lMc3dNYlROTE4vY1lvejFDL0lHMmlWejdkSytXa2QrWU1oZWJCLzlzNw
-
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png" group-title="DEPORTES",ESPN PREMIUM
 http://voodvooxqha.top:8080/vip2421768765133/6ea03793ba76/4828
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png" group-title="DEPORTES",ESPN PREMIUM
+http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/1123
+
 
 
 
@@ -214,9 +229,11 @@ http://181.224.255.210:8001/play/a0pv/index.m3u8
 http://181.78.50.91:8000/play/a04w/index.m3u8
 
 
-
 #EXTINF:-1 tvg-id="DisneyJunior.ar" tvg-name="DISNEY JUNIOR SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdisneyjr.png" group-title="INFANTILES",DISNEY JUNIOR SD
 http://181.224.255.210:8001/play/a0ny/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJunior.ar" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdisneyjr.png" group-title="INFANTILES",DISNEY JUNIOR HD
+http://45.185.163.75:8000/play/a016/index.m3u8
 
 #EXTINF:-1 tvg-id="DisneyJunior.ar" tvg-name="DISNEY JUNIOR HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdisneyjr.png" group-title="INFANTILES",DISNEY JUNIOR HD
 #EXTVLCOPT:http-referrer=http://tr.live.clarovtrcdn.vtrplay.com/
