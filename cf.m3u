@@ -94,23 +94,11 @@ http://181.78.79.131:8000/play/a0s9
 #EXTINF:-1 tvg-id="FOXSportsConoSur.ar" tvg-name="FOX SPORTS HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports.png" group-title="DEPORTES",FOX SPORTS HD
 http://177.53.153.207:8000/play/a008/index.m3u8
 
-#EXTINF:-1 tvg-id="FOXSportsConoSur.ar" tvg-name="FOX SPORTS HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports.png" group-title="DEPORTES",FOX SPORTS HD
-http://elpapanatas.space:8080/JavierRenderos/xakRfkrgDJ/58210
-
-#EXTINF:-1 tvg-id="FOXSportsConoSur.ar" tvg-name="FOX SPORTS HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports.png" group-title="DEPORTES",FOX SPORTS HD
-http://voodvooxqha.top:8080/vip2421768765133/6ea03793ba76/4764
-
 #EXTINF:-1 tvg-id="FOXSports2.ar" tvg-name="Fox Sports 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2.png" group-title="DEPORTES",FOX SPORTS 2 HD
 http://177.53.153.207:8000/play/a006/index.m3u8
 
-#EXTINF:-1 tvg-id="FOXSports2.ar" tvg-name="Fox Sports 2" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_2.png" group-title="DEPORTES",FOX SPORTS 2 HD
-http://miotv.cc:8080/YmFpeGhXL2FPbVlmTi9hMXRqM05lTXYxdkduWXhmUnM2UWg0cHRhR1NsL0xYQjFwMUVMUm0wdGN4WWJUY20zMw
-
 #EXTINF:-1 tvg-id="FOXSports3.ar" tvg-name="Fox Sports 3" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3.png" group-title="DEPORTES",FOX SPORTS 3 HD
 http://177.53.153.207:8000/play/a001/index.m3u8
-
-#EXTINF:-1 tvg-id="FOXSports3.ar" tvg-name="Fox Sports 3" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/fox_sports_3.png" group-title="DEPORTES",FOX SPORTS 3 HD
-http://voodvooxqha.top:8080/vip2421768765133/6ea03793ba76/4766
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-name="TyC Sports HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png" group-title="DEPORTES",TYC SPORTS HD
 http://45.181.87.106/TYCSPORTSHD/index.m3u8
