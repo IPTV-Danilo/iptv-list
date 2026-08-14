@@ -45,9 +45,6 @@ https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.
 #EXTINF:-1 tvg-id="TN.ar" tvg-name="TN HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/todo_notcias.png" group-title="NOTICIAS",TN HD
 http://177.53.153.207:8000/play/a01v/index.m3u8
 
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="TN HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/todo_notcias.png" group-title="NOTICIAS",TN HD
-http://15.204.246.24:8080/TNHD/index.m3u8
-
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26 HD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/26_de_argentina.png" group-title="NOTICIAS",CANAL 26 HD
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
