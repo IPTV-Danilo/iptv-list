@@ -100,7 +100,7 @@ https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-
 #EXTINF:-1 tvg-id="" tvg-name="ESPN Premium HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png" group-title="DEPORTES",ESPN PREMIUM
 http://181.78.79.131:8000/play/a0r2
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png" group-title="DEPORTES",TNT SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png" group-title="DEPORTES",TNT SPORTS
 http://179.60.224.196:8000/play/a0fd/index.m3u8
 
 
