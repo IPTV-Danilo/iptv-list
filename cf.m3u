@@ -170,7 +170,7 @@ http://190.108.83.69:8000/play/a0a1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHcartoonnetwork.png" group-title="INFANTILES",CARTOON NETWORK HD
-http://181.78.50.91:8000/play/a00l/index.m3u8
+http://138.121.113.175:8000/play/a08f/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOON NETWORK HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHcartoonnetwork.png" group-title="INFANTILES",CARTOON NETWORK HD
 http://181.224.255.210:8001/play/a0py/index.m3u8
@@ -217,16 +217,12 @@ http://181.224.255.210:8001/play/a0f7/index.m3u8
 
 
 #EXTINF:-1 tvg-id="AXN.ar" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHaxn.png" group-title="ENTRETENIMIENTOS",AXN HD
-http://181.78.50.91:8000/play/a05i/index.m3u8
-
-#EXTINF:-1 tvg-id="AXN.ar" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHaxn.png" group-title="ENTRETENIMIENTOS",AXN HD
-#EXTVLCOPT:network-caching=1000
-http://181.224.255.210:8001/play/a0m8/index.m3u8
-
+http://138.121.113.175:8000/play/a03u/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="CINECANAL SD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinecanal.png" group-title="ENTRETENIMIENTOS",CINECANAL SD
 http://181.78.192.238:8000/play/a1m4/index.m3u8
 
+http://138.121.113.175:8000/play/a08m/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.ar" tvg-name="CINECANAL HD" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinecanal.png" group-title="ENTRETENIMIENTOS",CINECANAL HD
 http://181.224.255.210:8001/play/a0ob/index.m3u8?hls
 
